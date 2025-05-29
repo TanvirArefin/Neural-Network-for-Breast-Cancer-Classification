@@ -22,14 +22,6 @@ The dataset used is the [Breast Cancer Wisconsin (Diagnostic)](https://archive.i
 - scikit-learn 1.5.0  
 - ucimlrepo 0.0.7  
 
-## Installation
-
-Clone this repository:
-```bash
-git clone https://github.com/TanvirArefin/Neural-Network-for-Breast-Cancer-Classification.git
-cd breast-cancer-classification
-
-
 ## Usage
 Run the Jupyter notebook Neural Network for Breast Cancer Classification.ipynb to train and evaluate the model.
 
@@ -55,5 +47,12 @@ University of California, Irvine for hosting the dataset
 
 PyTorch development team
 
-scikit-learn and other open-source contributors
+scikit-learn and other open-source contributors 
+
+## Installation
+
+Clone this repository:
+```bash
+git clone https://github.com/TanvirArefin/Neural-Network-for-Breast-Cancer-Classification.git
+cd breast-cancer-classification
 
