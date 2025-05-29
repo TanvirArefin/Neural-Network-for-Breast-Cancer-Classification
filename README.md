@@ -27,20 +27,22 @@ Run the Jupyter notebook Neural Network for Breast Cancer Classification.ipynb t
 
 ## The notebook includes:
 
--Data loading and preprocessing
--Model definition and training
--Performance evaluation
--Loss visualization
--Model Architecture
+*Data loading and preprocessing
+*Model definition and training
+*Performance evaluation
+*Loss visualization
+*Model Architecture
 
 ## The neural network consists of:
 1.Input layer: 30 neurons (one for each feature)
 2.Hidden layer: 64 neurons with ReLU activation
 3.Output layer: 2 neurons (for binary classification)
 
-## Results: The model shows decreasing training and test loss over epochs, indicating successful learning. The balanced dataset helps prevent bias toward either class.
+## Results 
+The model shows decreasing training and test loss over epochs, indicating successful learning. The balanced dataset helps prevent bias toward either class.
 
-## License: This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license, the same as the dataset.
+## License 
+This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license, the same as the dataset.
 
 ## Acknowledgments
 University of California, Irvine for hosting the dataset
