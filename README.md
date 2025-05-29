@@ -27,11 +27,11 @@ Run the Jupyter notebook Neural Network for Breast Cancer Classification.ipynb t
 
 ## The notebook includes:
 
-*Data loading and preprocessing
-*Model definition and training
-*Performance evaluation
-*Loss visualization
-*Model Architecture
+- Data loading and preprocessing
+- Model definition and training
+- Performance evaluation
+- Loss visualization
+- Model Architecture
 
 ## The neural network consists of:
 1.Input layer: 30 neurons (one for each feature)
